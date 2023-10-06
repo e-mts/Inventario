@@ -1,0 +1,10 @@
+_pycache_/*
+pyvenv.cfg
+.vscode/settings.json
+build/*
+.vscode/*
+Include/*
+Lib/*
+Scripts/*
+pyvenv.cfg
+__pycache__/*
