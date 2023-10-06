@@ -32,7 +32,7 @@ def main():
                             
         elif user_input == "2":                        
 
-            username = input("Crea tu nombre de usuario: ")
+            username = input("\nCrea tu nombre de usuario: ")
             password = input("Crea tu contraseña: ")
             create_user(username, password)
             print("\nHas creado un nuevo usuario.")
