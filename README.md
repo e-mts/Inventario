@@ -7,6 +7,8 @@ Debes crear un usuario para empezar a usarlo.
 
 Descarga el programa en la [sección de releases](https://github.com/e-mts/Inventario/releases/tag/release) o compílalo corriendo build.py.
 
+![image](https://github.com/e-mts/Inventario/assets/61860605/e6755522-424d-4973-b558-bc20c4659b6e)
+
 ## Cómo compilar
 
 Puedes encontrar el programa compilado en la [sección de releases](https://github.com/e-mts/Inventario/releases/tag/release) pero si deseas compilarlo tú mismo (ya que es de código abierto), puedes seguir estas instrucciones:
