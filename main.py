@@ -1,4 +1,5 @@
 import os
+import time
 from auth import login, create_user
 from database import add_product, update_product_info, display_products, delete_product, reduce_product, fetch_product_quantity
 from reports import generate_inventory_report, generate_movement_report, export_inventory_report, export_movement_report
@@ -112,11 +113,13 @@ def main():
 
         else:
             print('\nHasta luego.')
+            time.sleep(3)
             quit()
                 
         another_command = input("\nQuiere ingresar otro comando? (y/n): ").strip().lower()
         if another_command != "y":
             print('\nHasta luego.\n')
+            time.sleep(3)
             quit()
             
 if __name__ == "__main__":
