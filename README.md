@@ -27,6 +27,8 @@ pip install pyinstaller
 
 2 - Clona o descarga el repositorio
 
+* Si descargas el repositorio asegúrate de extraerlo del archivo comprimido con el menú contextual (clic derecho) para darle los permisos de usuario correctos.
+
 3 - Abre una terminal con permisos de administrador
 
 4 - Navega hacia el directorio del repositorio desde la terminal
